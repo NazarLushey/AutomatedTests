@@ -29,7 +29,7 @@ public class LoginPage {
 	}
 
 	public void logOut() {
-		driver.findElement(By.cssSelector("img[alt=\"logout\"]")).click();
+		 driver.findElement(By.cssSelector("img[alt=\"logout\"]")).click();
 	}
 
 }
