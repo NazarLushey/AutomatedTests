@@ -8,7 +8,7 @@ import com.softserve.edu.dao.order.OrderProcessor;
 public class DbProcessor {
 
 	public List<Order> getDataFromDB() throws Exception {
-		// handle exceptions
+		//  handle exceptions
 		OrderProcessor orderProc = new OrderProcessor();
 		List<Order> orders = orderProc.getAllFromOrders();
 		for (Order order : orders) {
