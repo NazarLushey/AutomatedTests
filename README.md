@@ -1,0 +1,2 @@
+# AutomatedTests
+Automation tests cases
