@@ -12,6 +12,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import com.softserve.edu.dao.order.Order;
+import com.softserve.edu.dao.order.OrderToCompare;
 import com.softserve.edu.db.DbProcessor;
 import com.softserve.edu.page.login.LoginPage;
 

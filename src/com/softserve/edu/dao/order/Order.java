@@ -7,7 +7,6 @@ import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;
 import com.softserve.edu.dao.orderstatus.OrderStatus;
 import com.softserve.edu.dao.user.User;
-import com.softserve.edu.tests.OrderToCompare;
 
 @DatabaseTable(tableName = "Orders", daoClass = OrderDaoImpl.class)
 public class Order {

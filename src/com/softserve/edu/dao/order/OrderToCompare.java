@@ -1,4 +1,4 @@
-package com.softserve.edu.tests;
+package com.softserve.edu.dao.order;
 
 public class OrderToCompare {
 
